@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://D:/StudySpace/PropertyAnimationDemo/bin/dexedLibs/nineoldandroids-2.4.0-75f1166868dd6dc2f7d3b94b35154d04.jar!/" />
+      <root url="jar://D:/StudySpace/PropertyAnimationDemo/bin/dexedLibs/android-support-v4-d75ff08f8866a18c048438863d41c455.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

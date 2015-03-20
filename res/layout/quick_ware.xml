@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/lis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/iconView"
+                android:layout_gravity="center_horizontal"
+                />
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/iconName"/>
+    </LinearLayout>
+
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/redView"
+            android:background="@drawable/ic_notification_overlay"
+            android:layout_alignRight="@+id/lis"
+            android:layout_alignTop="@+id/lis"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/noteinf"
+            android:textSize="12sp"
+            android:gravity="center"
+            android:layout_alignRight="@+id/redView"
+            android:layout_alignTop="@+id/redView"
+            android:layout_alignBottom="@+id/redView"
+            android:layout_alignLeft="@+id/redView"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ic_zzz"
+            android:text="1"
+            android:textSize="12sp"
+            />
+
+</RelativeLayout>

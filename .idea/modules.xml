@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/StudySpace/ViewAnimationDemo/AnimationDemo/AnimationDemo.iml" filepath="D:/StudySpace/ViewAnimationDemo/AnimationDemo/AnimationDemo.iml" />
+      <module fileurl="file://D:/StudySpace/AnimationsDemo/AnimationsDemo.iml" filepath="D:/StudySpace/AnimationsDemo/AnimationsDemo.iml" />
+      <module fileurl="file://D:/StudySpace/ApiDemos/ApiDemos.iml" filepath="D:/StudySpace/ApiDemos/ApiDemos.iml" />
+      <module fileurl="file://D:/StudySpace/BasicFragment/BasicFragment.iml" filepath="D:/StudySpace/BasicFragment/BasicFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mybright/Mybright.iml" filepath="$PROJECT_DIR$/../Mybright/Mybright.iml" />
+      <module fileurl="file://D:/StudySpace/PropertyAnimationDemo/PropertyAnimationDemo.iml" filepath="D:/StudySpace/PropertyAnimationDemo/PropertyAnimationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapp.iml" filepath="$PROJECT_DIR$/myapp.iml" />
+      <module fileurl="file://D:/StudySpace/newsreader/newsreader.iml" filepath="D:/StudySpace/newsreader/newsreader.iml" />
+    </modules>
+  </component>
+</project>

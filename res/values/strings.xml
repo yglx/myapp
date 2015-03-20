@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="navigation">navigation</string>
+    <string name="seeworld">seeWorld</string>
+    <string name="entertainment">entertainment</string>
+    <string name="tinygps">TinyGPS</string>
+    <string name="bluetooth_telephone">bluetooth telephone</string>
+    <array name="entrysoft">
+        <item>navigation</item>
+        <item>seeWorld</item>
+        <item>entertainment</item>
+        <item>TinyGPS</item>
+        <item>bluetooth telephone</item>
+    </array>
+</resources>
