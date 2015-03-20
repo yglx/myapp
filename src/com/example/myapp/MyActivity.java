@@ -61,7 +61,7 @@ public class MyActivity extends Activity {
                 sendBroadcast(intent);
             }
         });
-        int a = 3;
+        int a = 3;int b = 4;
         mLightSeekBar = (SeekBar)findViewById(R.id.seekBar);
         mLightSeekBar.setMax(225);
         int normal = Settings.System.getInt(getContentResolver(),Settings.System.SCREEN_BRIGHTNESS,225);
