@@ -14,6 +14,9 @@ import android.widget.*;
 
 import java.util.List;
 
+/**
+ * zhushi
+ */
 public class MyActivity extends Activity {
     /**
      * Called when the activity is first created.
